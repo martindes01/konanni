@@ -1,0 +1,16 @@
+﻿@font-face {
+font-family:Orm;
+src: url("Fonts/Ormont_Light.otf")
+}
+@font-face{
+    font-family:Mono;
+    src: url("Fonts/MostlyMono.ttf")
+}
+@font-face{
+    font-family:Glam;
+    src: url("Fonts/Glametrix.otf")
+}
+@font-face{
+    font-family:GlamB;
+    src:url("Fonts/GlametrixBold")
+}

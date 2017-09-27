@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.konanidnnn.com/</loc>
+  <lastmod>2016-04-18T11:06:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.konanidnnn.com/index.html</loc>
+  <lastmod>2016-04-18T11:06:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.konanidnnn.com/AboutUs.html</loc>
+  <lastmod>2016-04-18T08:53:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.konanidnnn.com/Food.html</loc>
+  <lastmod>2016-04-18T08:53:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.konanidnnn.com/GameStats.html</loc>
+  <lastmod>2016-04-18T08:53:51+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.konanidnnn.com/Places.html</loc>
+  <lastmod>2016-04-18T08:54:03+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.konanidnnn.com/ContactUs.html</loc>
+  <lastmod>2016-04-18T08:53:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.konanidnnn.com/Help.html</loc>
+  <lastmod>2016-04-18T08:53:56+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.konanidnnn.com/Stuff.html</loc>
+  <lastmod>2016-04-18T08:54:09+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
